@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>雪梨在线</title>
+   <link rel="stylesheet" href="css/index.css" />
+   <link rel="stylesheet" href="css/normalize.css" />
+</head>
+<body>
+	<div class="header">
+		<div class="header-last clear"><a href="#">个人中心</a></div>
+		<div class="container header-bottom clear">
+			<img src="images/logo.png" alt="logo图" class="logo "/>
+				<ul class="nav clear">
+					<li class="first"><a href="#">首页</a></li>
+					<li><a href="#">课程</a></li>
+					<li><a href="#">职业规划</a></li>
+				</ul>
+				<form class="form clear">
+					<input type="text" placeholder="输入关键词" class="search"/>
+					<input type="button" class="submit" />
+				</form>
+		</div>
+	</div>
+    <div class="catalogue clear">
+    <div class="container1 clear">	
+    	<ul class="nav2 clear">
+        <li><a href="#">前端开发<span>></span></a></li>
+        <li><a href="#">后端开发<span>></span></a></li>
+        <li><a href="#">移动开发<span>></span></a></li>
+        <li><a href="#">人工智能<span>></span></a></li>
+        <li><a href="#">商业预测<span>></span></a></li>
+        <li><a href="#">云计算&大数据<span>></span></a></li>
+        <li><a href="#">运维&从测试<span>></span></a></li>
+        <li><a href="#">UI设计<span>></span></a></li>
+        <li><a href="#">产品<span>></span></a></li>
+      </ul>
+    </div>
+    <div class="banner clear">
+    	<img src="images/banner.png" alt="banner图" class="banner "/>
+    </div>
+    </div>
+    <div class="middle">
+    	<div class="font1"><a href="#">精品推荐</a></div>
+    	<div class="container2 clear">
+    	<ul class="nav3 clear">
+					<li><a href="#">&nbsp;</a></li>
+					<li><a href="#">JQuery</a></li>
+					<li><a href="#">Spark</a></li>
+					<li><a href="#">MySQL</a></li>
+					<li><a href="#">JavaWeb</a></li>
+					<li><a href="#">MySQL</a></li>
+					<li class="end"><a href="#">JavaWeb</a></li>
+				</ul>
+			</div>
+	</div>
+    <div class="middle-last clear"><a href="#">修改兴趣</a></div>
+    <div class="next clear">
+		<div class="next-header clear">
+			<div class="next-left">精品推荐</div>
+			<div class="next-right"><a href="#">查看全部</a></div>
+		</div>
+	</div>
+	<div class="then-bottom clear">
+			<div class="then-top clear">
+				<div class="then-first">
+					<img src="images/p1.png">
+					<p class="p-top">Think PHP 5.0 博客系统实战项目演练</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="then-middle">
+					<img src="images/p2.png">
+					<p class="p-top">Android 网络图片加载框架详解</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="then-middle">
+					<img src="images/p3.png">
+					<p class="p-top">Angular 2 最新框架+主流技术+项目实战</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="then-middle">
+					<img src="images/p4.png">
+					<p class="p-top">Android Hybrid APP开发实战 H5+原生！</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="then-last">
+					<img src="images/p4.png">
+					<p class="p-top">Android Hybrid APP开发实战 H5+原生！</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+			</div>
+		</div>
+		<div class="thenbottom clear">
+			<div class="thentop clear">
+				<div class="thenfirst">
+					<img src="images/p1.png">
+					<p class="p-top">Think PHP 5.0 博客系统实战项目演练</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="thenmiddle">
+					<img src="images/p2.png">
+					<p class="p-top">Android 网络图片加载框架详解</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="thenmiddle">
+					<img src="images/p3.png">
+					<p class="p-top">Angular 2 最新框架+主流技术+项目实战</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="thenmiddle">
+					<img src="images/p4.png">
+					<p class="p-top">Android Hybrid APP开发实战 H5+原生！</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+				<div class="thenlast">
+					<img src="images/p4.png">
+					<p class="p-top">Android Hybrid APP开发实战 H5+原生！</p>
+					<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+				</div>
+			</div>
+		</div>
+		<div class="last clear">
+		<div class="last-header clear">
+			<div class="last-left">前端开发工程师</div>
+				<ul class="nav4 clear">
+					<li><a href="#">热门</a></li>
+					<li><a href="#">初级</a></li>
+					<li><a href="#">中级</a></li>
+					<li><a href="#">高级</a></li>
+				</ul>
+				<div class="last-right"><a href="#">查看全部</a></div>
+			</div>
+		</div>
+		<div class="finally clear">
+		<div class="finally-bottom clear">
+			<div class="finally-first">
+				<img src="images/p5.png">
+				<p class="p-top">微软人工智能-数据分析平台</p>
+				<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+			</div>
+			<div class="finally-middle">
+				<img src="images/p6.png">
+				<p class="p-top">Unity Profiler入门</p>
+				<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+			</div>
+			<div class="finally-middle">
+				<img src="images/p7.png">
+				<p class="p-top">Cocos2d-x 引擎源码中的纹理优化</p>
+				<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+			</div>
+			<div class="finally-middle">
+				<img src="images/p8.png">
+				<p class="p-top">Kami2首页界面切换效果</p>
+				<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+			</div>
+			<div class="finally-last">
+				<img src="images/p9.png">
+				<p class="p-top">Android Hybrid APP开发实战 H5+原生！</p>
+				<p class="p-bottom">高级<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;1125人在学习</span></p>
+			</div>
+		</div>
+	</div>
+<div class="ultimate clear">
+		<div class="ultimate-header clear">
+			<div class="ultimate-left">牛人推荐</div>
+		</div>
+		<div class="ultimate-bottom clear">
+			<div class="ultimate-first">
+				<div class="ultimate-first1">
+					<p class="top">毕业季</p>
+					<p class="bottom">带你华丽转身</p>
+				<div class="ultimate-first2"><a href="#">点击查看</a></div>
+				</div>
+			</div>
+			<div class="ultimate-middle">
+				<div class="ultimate-right">
+					<p class="top"><span>闻老师</span>&nbsp;&nbsp;大数据</p>
+					<p>高级互联网软件工程师，曾担任某物流公司CRM开发团队TL。多年JAVAEE、大数据领域研发……</p>
+				</div>
+			</div>
+			<div class="ultimate-middle1">
+				<div class="ultimate-right">
+					<p class="top"><span>汪老师</span>&nbsp;&nbsp;前端</p>
+					<p>高级软件架构师，全栈开发，多年大型项目管理经验。对Web Components、Node.js……</p>
+				</div>
+			</div>
+			<div class="ultimate-last">
+				<div class="ultimate-right">
+					<p class="top"><span>江老师</span>&nbsp;&nbsp;前端</p>
+					<p>多年软件开发经验和教学经验，精通html，css，js,asp.net等编程语言和数据库系统……</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="end1">
+		<div class="end1-left">
+				<div class="first">雪梨在线</div>
+				<div class="middle">致力于普及中国最好的教育，与中国一流大学和机构合作提供在线课程</div>
+				<div class="last"><a href="#">下载APP</a></div>
+			</div>
+			<div class="end1-right clear">
+				<ul class="end1-right1">
+					<li class="font-style"><a href="#">合作伙伴</a></li>
+					<div class="lineheight">
+						<li class="font-style1"><a href="#">合作机构</a></li>
+						<li class="font-style1"><a href="#">合作导师</a></li>
+					</div>
+				</ul>
+				<ul class="end1-right1">
+					<li class="font-style"><a href="#">新手指南</a></li>
+					<div class="lineheight">
+						<li class="font-style1"><a href="#">如何注册</a></li>
+						<li class="font-style1"><a href="#">如何选课</a></li>
+						<li class="font-style1"><a href="#">如何拿到毕业证</a></li>
+						<li class="font-style1"><a href="#">学分是什么</a></li>
+						<li class="font-style1"><a href="#">考试未通过怎么办</a></li>
+					</div>	
+				</ul>				
+				<ul class="end1-right2">
+					<li class="font-style"><a href="#">关于雪梨网</a></li>
+					<div class="line-height">
+						<li class="font-style1"><a href="#">关于</a></li>
+						<li class="font-style1"><a href="#">管理团队</a></li>
+						<li class="font-style1"><a href="#">工作机会</a></li>
+						<li class="font-style1"><a href="#">客户服务</a></li>
+						<li class="font-style1"><a href="#">帮助</a></li>
+					</div>
+				</ul>
+			</div>
+		
+	</div>
+
+</body>
+</html>
+	
+	
+
+
+
+
+			
+/*重置浏览器样式*/
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/*清除浮动*/
+.clear:after {
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.container {
+    width: 1202px;
+    text-align: center;
+    margin: 0 auto;
+}
+.logo{
+	margin-top:33px;
+	float:left;
+
+}
+.nav{
+	float:left;
+	margin-top:42px;
+	font-size:18px;
+    font-weight:400;
+}
+.nav li{
+	float: left;
+	width:150px;
+	text-align:center
+}
+.nav a{
+	color:rgba(5,5,5,1)
+}
+.nav a:hover{
+          padding-bottom: 10px;
+          border-bottom: 2px solid #00A4FF;
+        }
+.form{
+	float:right;
+	margin-top:31px;
+}
+.search{
+	float:left;
+	width:411px;
+    padding:12px;
+	border:1px solid rgba(0,164,255,1);
+}
+.submit{
+	float:left;
+	width:42px;
+    height:42px;
+    border:1px solid rgba(0,164,255,1);
+    background:rgba(0,164,255,1) url(../images/search.png) no-repeat center center;
+}
+.header-last{
+	float:right;
+	margin-right:80px;
+	padding-top:44px;
+	font-size:14px
+}
+.catalogue{
+	height:420px;
+	background: #1C036C;
+	margin-top:31px;
+}
+.container1{
+	width:190px;
+    height:420px;
+    background:#000000;
+    background:rgba(0,0,0,0.3);
+    position: relative;left:140px;
+    
+}
+.nav2{
+	float:left;
+	font-size:14px;
+    margin-top: 20px;
+    line-height:44px;
+    position: relative;left:20px;
+    position:absolute;
+
+ }
+ .nav2 a{
+ 	color:#FFFFFF;
+ }
+ .nav2 a:hover{
+         color:#00B4FF;
+        }
+.banner{
+	margin-left: 200px;
+	width:1040px;
+	height:420px;
+	position:relative;bottom:211px;
+}
+.container2{
+	width:1200px;
+    height:60px;
+    margin: 0 auto;
+	margin-top: 8px;
+    background:rgba(255,255,255,1);
+    box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+}
+.nav2 li a span{
+	float: right;
+    position:relative;left:50px;
+}
+.nav3 li{
+	float: left;
+	height:18px;
+	font-size:16px;
+	font-weight:bold;
+	text-align: center;
+	margin:21px 0;
+	padding: 0 34px;
+	border-right: 1px solid gray;
+}
+.nav3 a{
+	color:rgba(0,163,255,1);
+}
+.nav3 li{
+	float:left;
+	position:relative;left:40px;
+	
+}
+.font1 a{
+	color:#00A3FF;
+}
+.font1{
+	position:relative;top:50px;left:180px;
+}
+.middle-last{
+	float: right;
+	padding: 21px 64px 18px 0;
+
+}
+.nav3 a{
+	display: inline-block;
+	color:#050505;
+}
+.nav3 li .first1 a{
+	color:#00A3FF;
+}
+.middle-last a{
+	display: inline-block;
+	color:rgba(0,164,255,1);
+	position:relative;bottom:60px;right:180px;
+}
+.nav3 .end{
+	border:none;
+}
+.next{
+	width: 1200px;
+	margin: 0 auto;
+	height: 632px;
+}
+
+.next-left{
+	float: left;
+	margin-top: 37px;
+	width: 1021px;
+	height:19px;
+	font-size:20px;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.next-right{
+	float: right;
+	margin-top: 41px;
+	margin-right: 31px;
+	height:13px;
+	width:48px;
+	font-size:12px;
+	font-weight:400;
+}
+.then{
+	width: 1200px;
+	margin: 0 auto;
+	height: 632px;
+}
+.then-top div{
+	float: left;
+}
+.p-top{
+	width:185px;
+	height:34px;
+	font-size:14px;
+	margin: 0 20px 30px 23px;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	line-height:20px;
+	position:relative;top: 25px;left: 5px;
+}
+.p-bottom{
+	width:130px;
+	height:13px;
+	font-size:12px;
+	font-weight:400;
+	color:rgba(255,124,45,1);
+	position:relative;top: 25px;left: 27px;
+}
+.p-bottom span{
+	color: #999999;
+}
+.then-bottom div{
+	float: left;
+	position:relative;bottom:280px;left:80px;
+}
+.then-first{
+	margin:21px 6px 0 0;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	height: 280px;
+}
+.then-last{
+	margin:21px 0 0 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	height: 280px;
+}
+.then-middle{
+	margin: 21px 6px 0 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	height: 280px;
+}
+.thenbottom div{
+	float: left;
+	position:relative;bottom:280px;left:80px;
+}
+.thenfirst{
+	margin:21px 6px 0 1px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	height: 280px;
+}
+
+.thenlast{
+	margin:21px 5px 2px 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	height: 280px;
+
+}
+.thenmiddle{
+	height: 280px;
+	margin: 16px 6px 0 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+}
+.thenbottom{
+	float:left;
+}
+.last{
+	width: 1200px;
+	margin: 0 auto;
+	height: 77px;
+
+}
+.last-left{
+	float: left;
+	margin-top: 37px;
+	height:19px;
+	width:400px;;
+	font-size:20px;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.nav4{
+	float: left;
+	margin-left: 30px;
+	height:17px;
+	font-size:16px;
+	font-weight:400;
+	width: 600px;
+}
+.nav4 li{
+	float: left;
+	margin: 41px 34px 0 34px;
+}
+.nav4 li a{
+	display: inline-block;
+	color:#868686; 
+}
+.nav4 li a:hover{
+	color:rgba(0,164,255,1);
+}
+.last-right{
+	float: right;
+	margin-top: 41px;
+	padding-right: 31px;
+	height:13px;
+	font-size:12px;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+}
+.last-header{
+	position:relative;bottom:550px;
+
+}
+.finally{
+	width: 1400px;
+	margin: 0 auto;
+	height: 270px;
+	float:left;
+	position:absolute;top:1350px;left:150px;
+}
+.finally-bottom div{
+	float: left;
+}
+.finally-first{
+	height: 280px;
+	margin:25px 6px 0 0;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+}
+.finally-middle{
+	height: 280px;
+	margin:25px 6px 0 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+}
+.finally-last{
+	height: 280px;
+	margin:25px 0 0 6px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+}
+.ultimate{
+	width: 1200px;
+	height: 480px;
+	margin: 0 auto;
+}
+.ultimate-left{
+	float: left;
+	width:1200px;
+	height:19px;
+	font-size:20px;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+	margin-top: 37px;
+}
+.ultimate-bottom div{
+	float: left;
+}
+.ultimate-first{
+	margin:33px 6px 0 0;
+	background: url(../images/p10.png);
+	height: 320px;
+	width: 471px;
+}
+.ultimate-middle{
+	background: url(../images/p11.png);
+	margin:33px 6px 0 6px;
+	height: 320px;
+	width: 228px;
+}
+.ultimate-middle1{
+	background: url(../images/p12.png);
+	margin:33px 6px 0 6px;
+	height: 320px;
+	width: 228px;
+}
+.ultimate-last{
+	background: url(../images/p13.png);
+	margin:33px 0 0 6px;
+	height: 320px;
+	width: 228px;
+}
+.ultimate-first a{
+	width:53px;
+	height:14px;
+	font-size:13px;
+	font-weight:400;
+	color:rgba(249,225,3,1);
+	line-height:20px;
+	border: 1px solid yellow;
+	padding: 5px 17px 6px 17px;
+	margin:0 0 0 25px;
+}
+.ultimate-first1 p{
+	font-size:30px;
+	font-weight:bold;
+	line-height:36px;
+	position:relative;top:100px;
+}
+.ultimate-first1 .top{
+	margin:0 0 12px 25px;
+	color:#F9E003;
+}
+.ultimate-first1 .bottom{
+	margin:0 0 12px 25px;
+	color: #FFFFFF;
+}
+.ultimate-right{
+	width:175px;
+	height:53px;
+	font-size:12px;
+	font-weight:400;
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	margin:223px 0 12px 31px;
+}
+.ultimate-right p span{
+	width:108px;
+	height:18px;
+	font-size:18px;
+	font-weight:bold;
+}
+.ultimate{
+	position:relative;bottom:200px;right:8px;
+}
+.ultimate-first2{
+	position:relative;top:120px;
+}
+.end1{
+	width: 1200px;
+	height: 417px;
+	margin: 0 auto;
+    background-color:#FFFFFF;
+}
+.end1-left{
+	float: left;
+	width: 380px;
+	height:152px;
+}
+.end1-right{
+	float: right;
+}
+.end1-left .first{
+	width:380px;
+	height:36px;
+	font-size:36px;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	margin-top: 124px;
+	margin-left: 21px;
+}
+.end1-left .middle{
+	width:380px;
+	height:12px;
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	margin-top: 35px;
+	margin-left: 21px;
+}
+.end1-left .last{
+	margin-top: 33px;
+	margin-left: 21px;
+	border: 1px solid rgba(0,164,255,1);
+	width: 120px;
+	height: 36px;
+	padding-top: 11px;
+}
+.end1-left .last a{
+	color:rgba(0,164,255,1);
+	width:63px;
+    height:15px;
+	font-size:16px;
+	font-weight:400;
+	margin-left: 27px;
+}
+.end1-right{
+	float: right;
+	margin-top: 90px;
+	margin-right: 21px;
+}
+.end1-right1{
+	float: right;
+	margin-top: 60px;
+	margin-right: 146px;
+}
+.end1-right2{
+	float: right;
+	margin-top: 60px;
+	margin-right: 136px;
+}
+.font-style a{
+	height:17px;
+	font-size:16px;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+}
+.font-style1 a{
+	font-size:12px;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+}
+.line-height{
+	margin-top: 10px;
+}
